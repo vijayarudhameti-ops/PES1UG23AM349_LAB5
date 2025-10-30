@@ -161,4 +161,4 @@ flake8 clean_inventory_system.py
 ```
 
 ## Author
-Sumit (PES1UG23AM324)
+Vijayarudha Meti (PES1UG23AM349)
